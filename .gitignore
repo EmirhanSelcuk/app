@@ -1,1 +1,4 @@
-data.txt
+data2.txt
+
+TestDosya/*
+!TestDosya/deneme.txt
